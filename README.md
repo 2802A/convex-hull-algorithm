@@ -1,1 +1,2 @@
 # convex-hull-algorithm
+Find the minimum area covered by obstacles to be avoided.For this process, a method was chosen that is capable of determining based on the point coordinates,a simple geometrical method named as Convex Hull Method. Given a set of points of the obstacle in a two dimensional space determine the convex polygon. A convex polygon is a polygon, where none of the vertices are pointed inward.
